@@ -66,4 +66,6 @@ RegisterNumber:212223220073
 ![image](https://github.com/Pavithrasaravanakumar/HALF_ADDER_SUBTRACTOR/assets/150664013/1f7fdc2e-a91f-4cf6-a052-2b33bb392b85)
 
 **Result:**
+
+
 The Implementation-of-Half-Adder-and-Half Subtractor-circuit is successfully executed.
